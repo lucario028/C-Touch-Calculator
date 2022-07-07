@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ESTRATEGIA
+namespace Ccalc
 {
     public partial class calc : Form
     {

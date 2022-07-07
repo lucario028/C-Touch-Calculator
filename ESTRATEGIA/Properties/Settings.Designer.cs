@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ESTRATEGIA.Properties
+namespace Ccalc.Properties
 {
 
 

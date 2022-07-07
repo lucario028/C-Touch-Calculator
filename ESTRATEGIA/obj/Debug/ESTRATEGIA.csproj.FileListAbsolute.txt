@@ -20,3 +20,7 @@ C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.c
 C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.csproj.CoreCompileInputs.cache
 C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.exe
 C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.pdb
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\bin\Debug\ESTRATEGIA.exe.manifest
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\bin\Debug\ESTRATEGIA.application
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.exe.manifest
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.application

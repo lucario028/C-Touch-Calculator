@@ -1,4 +1,4 @@
-﻿namespace ESTRATEGIA
+﻿namespace Ccalc
 {
     partial class calc
     {

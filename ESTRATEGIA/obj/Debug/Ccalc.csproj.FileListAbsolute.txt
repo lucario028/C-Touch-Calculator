@@ -1,0 +1,15 @@
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\bin\Debug\ESTRATEGIA.exe.config
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\bin\Debug\ESTRATEGIA.exe.manifest
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\bin\Debug\ESTRATEGIA.application
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\bin\Debug\ESTRATEGIA.exe
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\bin\Debug\ESTRATEGIA.pdb
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\Ccalc.csproj.AssemblyReference.cache
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\Ccalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.Properties.Resources.resources
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\Ccalc.csproj.GenerateResource.cache
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\Ccalc.csproj.CoreCompileInputs.cache
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.exe.manifest
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.application
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.exe
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\ESTRATEGIA.pdb
+C:\Users\gisra\source\repos\C-Touch-Calculator\ESTRATEGIA\obj\Debug\Ccalc.calc.resources
