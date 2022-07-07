@@ -1,0 +1,11 @@
+C:\Users\gisra\source\repos\ESTRATEGIA\bin\Debug\ESTRATEGIA.exe.config
+C:\Users\gisra\source\repos\ESTRATEGIA\bin\Debug\ESTRATEGIA.exe
+C:\Users\gisra\source\repos\ESTRATEGIA\bin\Debug\ESTRATEGIA.pdb
+C:\Users\gisra\source\repos\ESTRATEGIA\obj\Debug\ESTRATEGIA.csproj.AssemblyReference.cache
+C:\Users\gisra\source\repos\ESTRATEGIA\obj\Debug\ESTRATEGIA.csproj.SuggestedBindingRedirects.cache
+C:\Users\gisra\source\repos\ESTRATEGIA\obj\Debug\ESTRATEGIA.Form1.resources
+C:\Users\gisra\source\repos\ESTRATEGIA\obj\Debug\ESTRATEGIA.Properties.Resources.resources
+C:\Users\gisra\source\repos\ESTRATEGIA\obj\Debug\ESTRATEGIA.csproj.GenerateResource.cache
+C:\Users\gisra\source\repos\ESTRATEGIA\obj\Debug\ESTRATEGIA.csproj.CoreCompileInputs.cache
+C:\Users\gisra\source\repos\ESTRATEGIA\obj\Debug\ESTRATEGIA.exe
+C:\Users\gisra\source\repos\ESTRATEGIA\obj\Debug\ESTRATEGIA.pdb
