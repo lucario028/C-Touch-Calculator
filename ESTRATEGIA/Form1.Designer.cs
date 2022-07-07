@@ -1,6 +1,6 @@
 ﻿namespace ESTRATEGIA
 {
-    partial class Form1
+    partial class calc
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -287,7 +287,7 @@
             this.DisplayLabel.TabIndex = 19;
             this.DisplayLabel.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
-            // Form1
+            // calc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -311,8 +311,10 @@
             this.Controls.Add(this.labelNumero7);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.MaximizeBox = false;
+            this.Name = "calc";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Calculadora C#";
             this.ResumeLayout(false);
             this.PerformLayout();
 

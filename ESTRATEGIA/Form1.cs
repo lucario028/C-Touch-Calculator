@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ESTRATEGIA
 {
-    public partial class Form1 : Form
+    public partial class calc : Form
     {
-        public Form1()
+        public calc()
         {
             InitializeComponent();
         }
@@ -79,27 +79,44 @@ namespace ESTRATEGIA
 
         private void label_Igual_Click(object sender, EventArgs e)
         {
-            
+            string valorPre2 = DisplayLabel.Text;
+            Operaciones.valor2 = Convert.ToInt32(valorPre2);
+            DisplayLabel.Text = "";
+            Operaciones.Calcular();
+            DisplayLabel.Text = Convert.ToString(Operaciones.result);
+
         }
 
         private void labelSuma_Click(object sender, EventArgs e)
         {
-            DisplayLabel.Text = DisplayLabel.Text + "+";
+            Operaciones.operacion = 1;
+            string valorPre = DisplayLabel.Text;
+            Operaciones.valor1 = Convert.ToInt32(valorPre);
+            DisplayLabel.Text = "";
         }
 
         private void label11_Click(object sender, EventArgs e)
         {
-            DisplayLabel.Text = DisplayLabel.Text + "-";
+            Operaciones.operacion = 2;
+            string valorPre = DisplayLabel.Text;
+            Operaciones.valor1 = Convert.ToInt32(valorPre);
+            DisplayLabel.Text = "";
         }
 
         private void labelMultiplicar_Click(object sender, EventArgs e)
         {
-            DisplayLabel.Text = DisplayLabel.Text + "*";
+            Operaciones.operacion = 3;
+            string valorPre = DisplayLabel.Text;
+            Operaciones.valor1 = Convert.ToInt32(valorPre);
+            DisplayLabel.Text = "";
         }
 
         private void labelDividir_Click(object sender, EventArgs e)
         {
-            DisplayLabel.Text = DisplayLabel.Text + "/";
+            Operaciones.operacion = 4;
+            string valorPre = DisplayLabel.Text;
+            Operaciones.valor1 = Convert.ToInt32(valorPre);
+            DisplayLabel.Text = "";
         }
     }
 }
